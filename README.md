@@ -42,6 +42,6 @@ $$
 * `player_stats_data.csv`: The raw 2025 VNL dataset.
 
 ## Author
-**[Your Name]**
-* [LinkedIn Profile Link]
-* [Personal Portfolio/Website Link]
+**Noah George**
+* https://www.linkedin.com/in/noah-george05212006/
+* https://github.com/Noahgeorge21
